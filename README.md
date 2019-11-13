@@ -1,2 +1,2 @@
-# aps.net-assignments
+# asp.net-assignments
 Assignments of advance programming of third sem
